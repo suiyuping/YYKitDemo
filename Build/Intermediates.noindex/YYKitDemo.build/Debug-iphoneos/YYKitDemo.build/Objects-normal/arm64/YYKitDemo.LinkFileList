@@ -1,9 +1,14 @@
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/NSParagraphStyle+YYText.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYTextMagnifier.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/DispatchQueuePoolViewController.o
+/Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYRepo.o
+/Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYBook.o
+/Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYDiskCache.o
+/Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYKVStorage.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/NSAttributedString+YYText.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/ImageViewController.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYTextTransaction.o
+/Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYMessage.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYTextRubyAnnotation.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYTextParser.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYTextView.o
@@ -19,6 +24,7 @@
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYTextInput.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/NSObject+YYModel.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYTextUtilities.o
+/Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYCache.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYTextRunDelegate.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/ViewController.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYTextWeakProxy.o
@@ -34,5 +40,9 @@
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYTextContainerView.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYTextEffectWindow.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/CategoriesViewController.o
+/Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYAlbum.o
+/Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYUser.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYTextAsyncLayer.o
 /Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/AppDelegate.o
+/Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYMemoryCache.o
+/Users/suiyuping/Desktop/YYKitDemo/Build/Intermediates.noindex/YYKitDemo.build/Debug-iphoneos/YYKitDemo.build/Objects-normal/arm64/YYPhoto.o

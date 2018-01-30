@@ -13,9 +13,9 @@
 	<string>MobileCoreServices</string>
 	<string>libkern</string>
 	<string>objc</string>
-	<string>Accelerate</string>
-	<string>CoreText</string>
 	<string>UIKit</string>
+	<string>CoreText</string>
+	<string>Accelerate</string>
 	<string>Foundation</string>
 	<string>YYImage</string>
 </array>
