@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/YYTextView.m \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/YYTextView.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/String/YYTextParser.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Component/YYTextLayout.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Component/YYTextDebugOption.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Component/YYTextLine.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/String/YYTextAttribute.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Component/YYTextInput.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Component/YYTextContainerView.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Component/YYTextSelectionView.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Component/YYTextMagnifier.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Component/YYTextEffectWindow.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Component/YYTextKeyboardManager.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Utility/YYTextUtilities.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Utility/YYTextTransaction.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Utility/YYTextWeakProxy.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Utility/NSAttributedString+YYText.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/String/YYTextRubyAnnotation.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Utility/UIPasteboard+YYText.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Utility/UIView+YYText.h

@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/ViewController/CategoriesViewController.m \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/ViewController/CategoriesViewController.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/YYText.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/YYLabel.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/String/YYTextParser.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Component/YYTextLayout.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Component/YYTextDebugOption.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Component/YYTextLine.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/String/YYTextAttribute.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Component/YYTextInput.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/YYTextView.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/String/YYTextArchiver.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/String/YYTextRunDelegate.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/String/YYTextRubyAnnotation.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Component/YYTextKeyboardManager.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Utility/YYTextUtilities.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Utility/NSAttributedString+YYText.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Utility/NSParagraphStyle+YYText.h \
+  /Users/suiyuping/Desktop/YYKitDemo/YYKitDemo/Library/YYText/Utility/UIPasteboard+YYText.h
